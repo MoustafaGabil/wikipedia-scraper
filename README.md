@@ -69,7 +69,7 @@ def to_json_file(self, filepath: str)
 ```
 ## ⏱️ Timeline
 
-This project took three and half days for completion.
+This project took three days and half  for completion.
 
 ## 📌 Personal Situation
 This project was done as part of the AI Boocamp at BeCode.org. 
