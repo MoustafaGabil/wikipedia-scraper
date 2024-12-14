@@ -36,7 +36,7 @@ This project involves querying an API to retrieve a list of countries and their 
 
 2. Optimize scraping to avoid making repeated requests to the same Wikipedia page.
 
-3.Enhance the data sanitization process to clean up the text further
+3. Enhance the data sanitization process to clean up the text further
 
 
     ```
