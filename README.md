@@ -26,12 +26,12 @@ This project involves querying an API to retrieve a list of countries and their 
 
 1. Clone the repository to your local machine.
 
-2 .To run the script, you can execute the `main.py` file from your command line:
+2. To run the script, you can execute the `main.py` file from your command line:
 
 3. Install the required modules as mentioned in the Requirements file.
 
 
-##  Future Improvements
+## Future Improvements
 1. Add error handling for failed Wikipedia requests.
 
 2. Optimize scraping to avoid making repeated requests to the same Wikipedia page.
